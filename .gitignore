@@ -8,6 +8,7 @@
 *.dll
 *.so
 *.dylib
+act-cache
 
 .cache
 cache.log
